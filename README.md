@@ -64,7 +64,16 @@ Outside tech, I enjoy photography, sports, and caring for street animals — act
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Computer Science Fundamentals
+
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+* Database Management Systems (DBMS)
+* Operating Systems
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kusal76&show_icons=true&theme=tokyonight" />
