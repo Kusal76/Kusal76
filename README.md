@@ -64,7 +64,7 @@ Outside tech, I enjoy photography, sports, and caring for street animals — act
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kusal76&show_icons=true&theme=tokyonight" />
