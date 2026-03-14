@@ -17,7 +17,7 @@
 
 I am a third-year IT student from Barrackpore, West Bengal, currently maintaining a **9.0 CGPA**. 
 
-I believe in building strong fundamentals and improving through hands-on practice rather than learning tools superficially. I have received college-level training in **SAP S/4HANA Development**, am gaining hands-on backend experience with projects like SMRIS (Secure Medical Record Integrity System), and enjoy diving deep into industry platforms.
+I believe in building strong fundamentals and improving through hands-on practice rather than learning tools superficially. I have received college-level training in **SAP S/4HANA Development**, am gaining hands-on backend experience with projects like SMRIS (Secure Medical Record Integrity System), IterviewAI and EquiShare and enjoy diving deep into industry platforms.
 
 📌 **Primary Interest:** Data Analytics & Full-Stack Development
 📈 Passionate about turning data into meaningful insights and building fault-tolerant applications.
