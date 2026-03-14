@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kushal Dev
+# 👋 Hi, I'm Kusal Dey
 
 🎓 **B.Tech Information Technology Student (3rd Year) | Narula Institute of Technology**
 📊 **Aspiring Data Analyst | Full-Stack Developer | Continuous Learner**
@@ -95,5 +95,5 @@ Outside of tech, I love to play sports (especially cricket and football), take p
 ## 🤝 Connect With Me
 
 📧 **Email:** [kusaldey2004@gmail.com](mailto:kusaldey2004@gmail.com)  
-🔗 **LinkedIn:** [Kusal Dev](https://www.linkedin.com/in/kusal-dey-b938a0241)  
+🔗 **LinkedIn:** [Kusal Dey](https://www.linkedin.com/in/kusal-dey-b938a0241)  
 ⭐ *Learning every day and building toward becoming a skilled Data Analyst.*
