@@ -61,7 +61,7 @@ Outside of tech, I love to play sports (especially cricket and football), take p
 
 ## 💻 Featured Projects
 
-### [InterviewAI — Full-Stack GenAI Career Platform](https://interview-ai-lac-six.vercel.app)
+### [InterviewAI — Full-Stack GenAI Career Platform](https://github.com/Kusal76/InterviewAI)
 *React, Node.js, Express, MongoDB, Gemini AI, Puppeteer*
 * Built a fault-tolerant MERN application using Gemini 2.5 Flash to generate adaptive interview prep strategies and match scores.
 * Engineered a Node.js backend with `pdf-parse` and Puppeteer for dynamic, crash-free ATS-friendly resume generation.
