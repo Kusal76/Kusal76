@@ -73,6 +73,17 @@ Outside of tech, I love to play sports (especially cricket and football), take p
 
 ## 💻 Featured Projects
 
+### [🔬 Python DPI Engine — Multi-Processed Deep Packet Inspection](https://github.com/Kusal76/Python-DPI-Engine)
+*Python, Multiprocessing, Docker, Raw Sockets, PCAP*
+* Built a production-grade Deep Packet Inspection engine entirely from scratch in Python — no `scapy`, no `dpkt` — parsing every OSI layer (2–7) at the raw byte level using `struct` and manual offset arithmetic.
+* Engineered a multi-processed pipeline with 2 Load Balancers and 4 Fast Path workers, bypassing Python's GIL via `multiprocessing` to achieve true CPU-core parallelism with IPC Queue communication.
+* Implemented a custom TLS Client Hello parser to extract SNI (Server Name Indication) without decryption, and a DNS wire-format parser — enabling real-time L7 app classification (YouTube, TikTok, etc.).
+* Built a JSON-driven rules engine supporting IP blocking, domain blocking, and bandwidth throttling via artificial latency injection; containerized with Docker for portable, ephemeral deployment verified in Wireshark.
+
+💻 **[Source Code](https://github.com/Kusal76/Python-DPI-Engine)**
+
+---
+
 ### [🧠 VectorDB Engine — Custom AI Search & RAG Pipeline](https://github.com/Kusal76/custom-vectordb-engine)
 *Python, FastAPI, NumPy, Ollama, Docker*
 * Engineered a production-grade **Vector Database and RAG engine entirely from scratch** — zero reliance on managed services like Pinecone or ChromaDB — to demonstrate deep understanding of AI system internals.
