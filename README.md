@@ -19,7 +19,7 @@ I am a third-year IT student from Barrackpore, West Bengal, currently maintainin
 
 I believe in building strong fundamentals and improving through hands-on practice rather than learning tools superficially. Rather than reaching for managed cloud services, I prefer to engineer solutions from first principles — including building a **custom Vector Database and RAG engine from scratch** to deeply understand how AI search actually works under the hood.
 
-I have received college-level training in **SAP S/4HANA Development**, am gaining hands-on backend experience across projects like **InterviewAI**, **EquiShare**, and a custom **VectorDB Engine**, **DPI Engine**and enjoy diving deep into both data engineering and full-stack platforms.
+I have received college-level training in **SAP S/4HANA Development**, am gaining hands-on backend experience across projects like **InterviewAI**, **EquiShare**, and a custom **VectorDB Engine**, **DPI Engine** and enjoy diving deep into both data engineering and full-stack platforms.
 
 📌 **Primary Interest:** Data Analytics, AI Engineering & Full-Stack Development  
 📈 Passionate about turning raw data into meaningful systems and building fault-tolerant applications.
